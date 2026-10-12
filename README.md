@@ -27,7 +27,7 @@ This project offers an open-source firmware designed to build "legally compliant
 
 ## 📖 詳細な解説・使い方 (Documentation & Wiki)
 
-シニアドクターの方々にも分かりやすいよう、具体的な回路図、部品リスト、Arduino IDEでの書き込み手順などの詳細情報はすべて**専用のWikiページ**に集約しています。
+私を含めシニア世代ドクターの方々にも分かりやすいよう、具体的な回路図、Arduino IDEでの書き込み手順のご案内、実践的な試作報告など、詳細情報はすべて**専用のWikiページ**に集約しています。
 
 以下の青い文字（リンク）をクリックして解説ページへお進みください。
 
