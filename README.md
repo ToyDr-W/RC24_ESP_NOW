@@ -12,7 +12,8 @@
 
 本プロジェクトは、先達の偉大なノウハウをリサーチ・吸収し、子どもたちが「安心、安全に遊べる適法ラジコン」をドクター自らの手で作り出すためのオープンソース・ファームウェアです。
 
-<img width="45%" alt="250918_RC24_ESP02 (3)" src="https://github.com/user-attachments/assets/8e3c3036-3cab-443f-853b-6ea8fdbe919f" />
+<img width="30%" alt="250918_RC24_ESP02 (3)" src="https://github.com/user-attachments/assets/8e3c3036-3cab-443f-853b-6ea8fdbe919f" />
+<img width="30%" alt="250922_RC24_BDY (4)" src="https://github.com/user-attachments/assets/ef2ee810-e125-41b5-9c22-bd29e5c44563" />
 
 ---
 
