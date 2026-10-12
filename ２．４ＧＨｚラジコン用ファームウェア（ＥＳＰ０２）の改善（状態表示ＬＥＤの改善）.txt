@@ -1,0 +1,37 @@
+２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ－ＷＲＯＯＭ－０２）デモボード
+<a href="http://tutujith.blog.fc2.com/img/202011200722224c1.jpg/" target="_blank"><img src="https://blog-imgs-137.fc2.com/t/u/t/tutujith/202011200722224c1.jpg" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）外観" border="0" width="740" height="345" /></a>
+【前振り】
+<a href="http://tutujith.blog.fc2.com/blog-entry-453.html" target="_blank" title="ＥＳＰ０２用の２．４ＧＨｚラジコン用ファームウェア"><span style="color:#FF0000"><strong>ＥＳＰ－ＷＲＯＯＭ－０２用の２．４ＧＨｚラジコン用ファームウェア</strong></span></a>　で、ＬＥＤへの状態表示を改善した。
+
+
+【設計】
+①従来の状態表示
+
+・ペアリングが完了するまではＬＥＤは消灯、操縦データのやり取りができていると点灯、通信阻害のときは消灯していた。
+
+・これでは、ペアリング途上の状態が判らず、ペアリングに１２秒程度の時間が掛かるので、その間正常動作しているのか不安になる。
+
+②改善後の状態表示
+
+・ペアリングを実行中はＬＥＤを点滅し、完了するとＬＥＤを点灯させる。
+
+・コントローラ側で、操縦用ＳＳＩＤを送信中は早く点滅させる。
+
+・通信阻害のときはＬＥＤを消灯する。
+
+
+【評価】
+①動作状況が把握できるようになった。
+
+②コピー製作した場合の動作検証にも役立つと思う。
+
+
+【ダウンロード】
+ファームウェアの設計情報とプロジェクト一式は　<a href="https://drive.google.com/file/d/1Ng_R-xWNMCqbdH3DrohN-NECwJ6bIM6Z/view?usp=sharing" target="_blank" title="ここから"><span style="color:#ff0000"><strong>ここから</strong></span></a>　ダウンロードできる。
+
+コントローラ側のスケッチは　ディレクトリ「RC24\RC24_ESP02_CL」の「RC24_ESP02_CL.ino」
+
+操縦用のＳＳＩＤをコントローラ側のスケッチ内の下記の宣言で記述している。これを個々に変更すること。
+<a href="http://tutujith.blog.fc2.com/img/20201120202043e82.jpg/" target="_blank"><img src="https://blog-imgs-137.fc2.com/t/u/t/tutujith/20201120202043e82.jpg" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）操縦用ＳＳＩＤ宣言" border="0" width="742" height="33" /></a>
+
+車体側のスケッチは　ディレクトリ「RC24\RC24_ESP02_SV」の「RC24_ESP02_SV.ino」
