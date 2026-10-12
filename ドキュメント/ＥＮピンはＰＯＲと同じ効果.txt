@@ -1,0 +1,28 @@
+https://okiraku-camera.tokyo/blog/?p=7129　の情報
+
+
+If the power management IC is connected with the power-on enable pin CHIP_EN, it can control the
+power on-and-off of ESP8266EX by output high and low voltage through its GPIOs. However,
+pulsed current might be produced at the same time. In order to delay the transmission of pulsed
+signal and avoid unstable current of CHIP_EN, a RC time-delay circuit (R=1 kΩ, C=100 nF) is needed.
+There is an internal pull-up in the CHIP_EN pin, so no external pull-up is needed.
+
+パワーマネジメント IC がパワーオンイネーブルピン CHIP_EN に接続されている場合、パワーマネージメント IC は、
+GPIO を介して高電圧と低電圧を出力することにより、ESP8266EX の電源をオン/オフします。 しかし、
+同時にパルス電流が発生する場合があります。 パルスの送信を遅らせるために
+CHIP_EN の不安定な電流を避けるため、RC 遅延回路 (R=1 kΩ、C=100 nF) が必要です。
+CHIP_EN ピンには内部プルアップがあるため、外部プルアップは必要ありません。
+
+
+
+Pin32 serves as a RST pin which can be dangled when it is not used. The reset pin is held low
+level when the chip is enabled. In order to avoid reset caused by external interference, the lead
+is generally required to be short, and no external pull-up resistor is necessary.  
+Pin7 CH_EN can also be used as a reset pin. When the voltage for CH_EN pin is low, the chipset
+will be powered off.
+
+ピン 32 は RST ピンとして機能し、使用しないときはぶら下げることができます。 リセットピンはローに保持されます
+チップが有効になっているときのレベル。 外部干渉によるリセットを避けるために、リード線
+一般に、 は短いことが要求され、外部プルアップ抵抗は必要ありません。
+Pin7 CH_EN はリセットピンとしても使用できます。 CH_EN ピンの電圧が低い場合、チップセットは
+電源がオフになります。
