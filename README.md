@@ -1,6 +1,6 @@
 ## RC24_ESP_NOW
 
-# 🚀 技適対応・ESPマイコン換装用ラジコンファームウェア（ESP-NOW）
+# 🚀 技適対応・ESPマイコン換装用ラジコンファームウェア（RC24_ESP-NOW）
 
 ## 📌 はじめに (Introduction)
 
