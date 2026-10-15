@@ -18,9 +18,8 @@
 <img width="30%" alt="250922_RC24_BDY (4)" src="https://github.com/user-attachments/assets/ef2ee810-e125-41b5-9c22-bd29e5c44563" />
 </p>
 
-*※安価なESP-02のほか、入手容易なESP32-C3-WROOM-02でも使えるように、両方のスケッチを同梱しています。*
-
-*なお私の開発環境は Arduino IDE 2.3.10、esp32ボードは v3.2.1にダウングレードしています。*
+*※安価なESP-02のほか、入手容易なESP32-C3-WROOM-02でも使えるように、両方のスケッチを同梱しています。
+なお私の開発環境は Arduino IDE 2.3.10、esp32ボードは v3.2.1にダウングレードしています。*
 
 ---
 
