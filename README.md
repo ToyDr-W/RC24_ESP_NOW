@@ -25,8 +25,8 @@
 リポジトリ右上にある緑色の **`[ <> Code ]`** ボタンをクリックし、メニューの一番下にある **`Download ZIP`** から一括ダウンロードできます。
 
 ### 📖 詳細ドキュメント・Wiki・解説ブログ
-* 📘 **[GitHub Wiki (Home)](https://github.com)**（更新履歴・アーカイブ）
-* 📝 **[おもちゃ修理「電子カルテ」（ブログ）](https://hatenablog.com)**
+* 📘 **[GitHub Wiki (Home)](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki)**（更新履歴・アーカイブ）
+* 📝 **[おもちゃ修理「電子カルテ」（ブログ）](https://blog.canpan.info/charts/archive/491)**
 
 ---
 
@@ -45,4 +45,4 @@
 Click the green **`[ <> Code ]`** button at the top right of the repository page and select **`Download ZIP`**.
 
 ### 📖 Documentation & Acknowledgements
-* 📘 **[GitHub Wiki](https://github.com)** | 📝 **[Blog](https://hatenablog.com)**
+* 📘 **[GitHub Wiki](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki)** | 📝 **[Blog](https://blog.canpan.info/charts/archive/491)**
