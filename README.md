@@ -2,9 +2,9 @@
 **技適対応・ESPマイコン換装用ラジコンファームウェア（ESP-NOW）**  
 *Giteki-Compliant RC Firmware for ESP Microcontrollers using ESP-NOW*
 
-![License](https://shields.io)
-![Platform](https://shields.io)
-![Protocol](https://shields.io)
+**対応マイコン**: `ESP-WROOM-02 (ESP8266)` / `ESP32-C3-WROOM-02`  
+**通信方式**: `ESP-NOW`（技適対応・2.4GHz帯）  
+**ライセンス**: 改変・再配布時はオリジナル開発者への帰属表示（Attribution）が必要です
 
 [🇯🇵 日本語 (Japanese)](#-日本語-japanese) | [🇺🇸 English](#-english)
 
@@ -17,7 +17,7 @@
 
 ### ✨ 主な機能・特徴
 * **⚡ 自動ペアリング**: 電源を入れるだけでMACアドレスを認識し即時接続します。
-* **🚗 滑らかな加減速**: PWM制御による無段階のスピード調整が可能です。
+* **🚗 滑らかな加減速**: PWM制御によりフルアクション制御のほか無段階のスピード調整も可能です。
 * **🚀 ターボ＆汎用出力**: 前後左右に加え、ターボボタンやLED等の汎用出力に対応しています。
 * **🛑 フェイルセーフ**: 電波途絶時、0.2秒以内に全モーターを自動停止します。
 
@@ -26,7 +26,7 @@
 
 ### 📖 詳細ドキュメント・Wiki・解説ブログ
 * 📘 **[GitHub Wiki (Home)](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki)**（更新履歴・アーカイブ）
-* 📝 **[おもちゃ修理「電子カルテ」（ブログ）](https://blog.canpan.info/charts/archive/491)**
+* 📝 **[おもちゃ修理「電子カルテ」（ブログ） ↗](https://blog.canpan.info/charts/archive/491)**
 
 ---
 
