@@ -30,7 +30,7 @@
 <img width="40%" alt="250922_RC24_BDY (6)" src="https://github.com/user-attachments/assets/009e8f9c-b476-49ed-9875-21c0b7df5490" />
 <img width="40%" alt="250927_RC24_No2 (4)" src="https://github.com/user-attachments/assets/53dbb4ea-41d3-4428-a5cd-c00c4c7d9d7d" />
 <br>
-<a href="https://github.com/user-attachments/files/34935448/RC24_ESP02_cost.pdf"><img width="60%" alt="RC24_ESP02_cost" src="https://github.com/user-attachments/assets/ee56452a-367a-486e-b06e-00c501b19af4" /></a>
+<a href="https://github.com/user-attachments/files/34935448/RC24_ESP02_cost.pdf"><img width="60%" alt="RC24_ESP02_cost" src="https://github.com/user-attachments/assets/69c97c81-3907-42e0-af9e-acaad97ee604" /></a>
 <br>
 開発元でファームウェア書き込み済みの `アセンブリを実費頒布` していましたが、
 <br>
