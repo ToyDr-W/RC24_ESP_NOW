@@ -31,6 +31,7 @@
 <img width="40%" alt="250927_RC24_No2 (4)" src="https://github.com/user-attachments/assets/53dbb4ea-41d3-4428-a5cd-c00c4c7d9d7d" />
 <br>
 <img width="60%" alt="RC24_ESP02_cost" src="https://github.com/user-attachments/assets/ee56452a-367a-486e-b06e-00c501b19af4" />
+<br>
 開発元でファームウェア書き込み済みの `アセンブリを実費頒布` していましたが、「価格高騰のため頒布を当面休止します。(2026年8月)」と案内あり。
 </p>
 当方の手持ち在庫も残り少ないですが、いざマイコン換装の対象となる案件では躊躇することなく使っていきたいので、本リポジトリに登録しておきます。
