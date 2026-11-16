@@ -54,7 +54,7 @@
 
 ### ✨ Key Features
 * **⚡ Instant Auto-Pairing**: Automatic connection on power-up.
-* **🚗 Smooth PWM Speed Control**: Proportional acceleration and deceleration.
+* **🚗 Smooth Acceleration & Full-Action Control**: Supports both full-action directional control and stepless speed adjustment via PWM.
 * **🚀 Turbo & Auxiliary Outputs**: Directional controls plus turbo/LED outputs.
 * **🛑 Fail-Safe Auto-Brake**: Halts motors within **0.2 seconds** on signal loss.
 
