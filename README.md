@@ -55,7 +55,7 @@
 <img width="40%" alt="250920_RC24_CTR (2)" src="https://github.com/user-attachments/assets/31204058-d2ee-49a4-8827-f2ee287ff22a" />
 <img width="40%" alt="250922_RC24_BDY (2)" src="https://github.com/user-attachments/assets/ab47b118-2cfa-4d05-a44c-23b41224e521" />
 </p>
-* 📘 **[GitHub Wiki (Home)](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki)**（更新履歴・アーカイブ）
+* 📘 ** [GitHub Wiki (Home)](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki) **（更新履歴・アーカイブ）
 
 ---
 
