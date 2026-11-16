@@ -41,8 +41,8 @@
 ### 📖 詳細ドキュメント・Wiki・解説ブログ
 *※外部サイトは Ctrl（MacはCmd）キーを押しながらクリックすると別タブで開けます。*
 
-*   👉 **オリジナル開発者様の解説記事**
-    *   [名張市つつじが丘おもちゃ病院：２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ－ＷＲＯＯＭ－０２）の改善（汎用駆動を追加） ↗](https://tutujith.blog.fc2.com/blog-entry-1029.html)
+*   👉 **オリジナル開発者：名張市つつじが丘おもちゃ病院様の解説記事**
+    *   [２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ－ＷＲＯＯＭ－０２）の改善（汎用駆動を追加） ↗](https://tutujith.blog.fc2.com/blog-entry-1029.html)
 <p align="center">
 <img width="30%" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）開発ボード回路図" src="https://github.com/user-attachments/assets/3ec03dbf-f80e-4f93-9d7f-6da58c180ffc" />
 <img width="30%" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）の改善（汎用駆動を追加）換装回路図コントローラ側フルアクション" src="https://github.com/user-attachments/assets/fe277228-8867-4b7e-8af7-2bb15f8f4378" />
@@ -55,7 +55,7 @@
 <img width="40%" alt="250920_RC24_CTR (2)" src="https://github.com/user-attachments/assets/31204058-d2ee-49a4-8827-f2ee287ff22a" />
 <img width="40%" alt="250922_RC24_BDY (2)" src="https://github.com/user-attachments/assets/ab47b118-2cfa-4d05-a44c-23b41224e521" />
 </p>
-*   📘 [GitHub Wiki](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki) | 📝 **[Blog](https://blog.canpan.info/charts/archive/491)**
+* 📘 **[GitHub Wiki](https://github.com/ToyDr-W/RC24_ESP_NOW/wiki)** | 📝 **[Blog](https://blog.canpan.info/charts/archive/491)**
 
 ---
 
