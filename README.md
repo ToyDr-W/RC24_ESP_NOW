@@ -55,9 +55,7 @@
 <img width="40%" alt="250920_RC24_CTR (2)" src="https://github.com/user-attachments/assets/31204058-d2ee-49a4-8827-f2ee287ff22a" />
 <img width="40%" alt="250922_RC24_BDY (2)" src="https://github.com/user-attachments/assets/ab47b118-2cfa-4d05-a44c-23b41224e521" />
 </p>
-本プロジェクトの**回路図、詳しい使い方やカスタマイズ方法などの日本語解説**は、すべて見やすい専用の**Wiki（ウィキ）ページ**にまとめてあります。
-
-お手数をおかけしますが、以下のリンクから最新の解説ページへ移動してご覧ください。
+本プロジェクトの**回路図、詳しい使い方やカスタマイズ方法などの日本語解説**は、専用の**Wiki（ウィキ）ページ**にて（以下のリンクから最新の解説ページへ移動して）ご参照ください。
 
 👉<a href="https://github.com/ToyDr-W/RC24_ESP_NOW/wiki/Home" target="_blank">📖 ESP02マイコン換装用ファームウェア解説・回路図（Wikiページ）へ移動する</a>
 
