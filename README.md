@@ -24,11 +24,11 @@
 * **🚀 ターボ＆汎用出力**: 前後左右に加え、ターボボタンやLED等の汎用出力に対応しています。
 * **🛑 フェイルセーフ**: 電波途絶時、0.2秒以内に全モーターを自動停止します。
 <p align="center">
-<img width="40%" alt="250920_RC24_CTR (4)" src="https://github.com/user-attachments/assets/152f625d-9f30-4170-841a-1466d5137f5f" />
-<img width="40%" alt="250926_ESP02_VTR" src="https://github.com/user-attachments/assets/8d26ec9c-0fd8-49ab-bacf-5a5c39c2b48c" />
+<img width="39%" alt="250920_RC24_CTR (4)" src="https://github.com/user-attachments/assets/152f625d-9f30-4170-841a-1466d5137f5f" />
+<img width="41%" alt="250926_ESP02_VTR" src="https://github.com/user-attachments/assets/8d26ec9c-0fd8-49ab-bacf-5a5c39c2b48c" />
 <br>
-<img width="40%" alt="250922_RC24_BDY (6)" src="https://github.com/user-attachments/assets/009e8f9c-b476-49ed-9875-21c0b7df5490" />
-<img width="40%" alt="250927_RC24_No2 (4)" src="https://github.com/user-attachments/assets/53dbb4ea-41d3-4428-a5cd-c00c4c7d9d7d" />
+<img width="39%" alt="250922_RC24_BDY (6)" src="https://github.com/user-attachments/assets/009e8f9c-b476-49ed-9875-21c0b7df5490" />
+<img width="41%" alt="250927_RC24_No2 (4)" src="https://github.com/user-attachments/assets/53dbb4ea-41d3-4428-a5cd-c00c4c7d9d7d" />
 <br>
 <a href="https://github.com/user-attachments/files/34935448/RC24_ESP02_cost.pdf"><img width="60%" alt="RC24_ESP02_cost" src="https://github.com/user-attachments/assets/69c97c81-3907-42e0-af9e-acaad97ee604" /></a>
 <br>
