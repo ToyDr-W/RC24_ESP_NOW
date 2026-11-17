@@ -47,10 +47,10 @@
 *   👉 **オリジナル開発者：名張市つつじが丘おもちゃ病院様の解説記事**
     *   [２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ－ＷＲＯＯＭ－０２）の改善（汎用駆動を追加） ↗](https://tutujith.blog.fc2.com/blog-entry-1029.html)
 <p align="center">
-<img width="40%" alt="ESP-WROOM-02_CTRL_CCP" src="https://github.com/user-attachments/assets/a9ddf03c-3e60-4a19-b9c3-4ca1d41fa6a8" />
+<img width="39%" alt="ESP-WROOM-02_CTRL_CCP" src="https://github.com/user-attachments/assets/a9ddf03c-3e60-4a19-b9c3-4ca1d41fa6a8" />
 <img width="40%" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）の改善（汎用駆動を追加）換装回路図コントローラ側フルアクション" src="https://github.com/user-attachments/assets/fe277228-8867-4b7e-8af7-2bb15f8f4378" />
 <br>
-<img width="43%" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）の改善（汎用駆動を追加）換装回路図車体側" src="https://github.com/user-attachments/assets/14c3ed89-d3ba-4a07-8d90-aa1ed9a19012" />
+<img width="42%" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）の改善（汎用駆動を追加）換装回路図車体側" src="https://github.com/user-attachments/assets/14c3ed89-d3ba-4a07-8d90-aa1ed9a19012" />
 <img width="37%" alt="２．４ＧＨｚラジコン用ファームウェア（ＥＳＰ０２）開発ボード回路図" src="https://github.com/user-attachments/assets/3ec03dbf-f80e-4f93-9d7f-6da58c180ffc" />
 </p>
 
